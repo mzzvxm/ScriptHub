@@ -13,7 +13,7 @@ const scripts = [
     color: "from-emerald-500 to-teal-600",
     github: "https://github.com/mzzvxm/KhanBypass",
     bookmarklet:
-      'javascript:fetch("https://cdn.jsdelivr.net/gh/mzzvxm/KhanBypass@main/Script.js").then(r=>r.text()).then(eval);',
+      'javascript:fetch("https://cdn.jsdelivr.net/gh/mzzvxm/KhanBypass@latest/Script.js").then(r=>r.text()).then(eval);',
   },
   {
     name: "Leia Paraná Bypass",
@@ -22,7 +22,7 @@ const scripts = [
     color: "from-blue-500 to-cyan-600",
     github: "https://github.com/mzzvxm/LeiaPRBypass",
     bookmarklet:
-      "javascript:(function(){fetch('https://cdn.jsdelivr.net/gh/mzzvxm/LeiaPRBypass@main/script.js').then(r=>r.text()).then(eval);})();",
+      "javascript:(function(){fetch('https://cdn.jsdelivr.net/gh/mzzvxm/LeiaPRBypass@latest/script.js').then(r=>r.text()).then(eval);})();",
   },
   {
     name: "Wayground XGen",
@@ -39,7 +39,7 @@ const scripts = [
     color: "from-orange-500 to-red-600",
     github: "https://github.com/mzzvxm/AluraBypass",
     bookmarklet:
-      'javascript:fetch("https://cdn.jsdelivr.net/gh/mzzvxm/AluraBypass@main/script.js").then(res=>res.text()).then(eval);',
+      'javascript:fetch("https://cdn.jsdelivr.net/gh/mzzvxm/AluraBypass@latest/script.js").then(res=>res.text()).then(eval);',
   },
 ]
 
